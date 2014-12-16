@@ -1,0 +1,21 @@
+{
+    "name": "joellarson/liquibase",
+    "description": "Composer package to provide Liquibase",
+    "type": "library",
+    "keywords": [
+        "liquibase",
+        "database",
+        "migrations"
+    ],
+    "homepage": "https://github.com/JoelLarson/liquibase",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Joel Larson",
+            "email": "joellarsonweb@gmail.com"
+        }
+    ],
+    "bin": [
+        "liquibase"
+    ]
+}
